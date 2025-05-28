@@ -38,7 +38,8 @@ Follow these steps to set up the project on your local machine.
 5.  **Download an LLM Model:**
     - Open your terminal and pull a model to use. This project was developed with `gemma2:9b`.
     ```bash
-    ollama pull gemma2:9b
+    ollama pull "Your Model Name"
+    
     ```
     - You can use other models like `llama3:8b` or `phi3`, but you will need to update the code as shown in the Configuration section below.
 
