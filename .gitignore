@@ -1,0 +1,17 @@
+# Ignore Python's virtual environment
+venv/
+.venv/
+
+# Ignore secret files
+credentials.json
+token.json
+
+# Ignore local database folder
+my_knowledge_base/
+
+# Ignore Mac-specific files
+.DS_Store
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
