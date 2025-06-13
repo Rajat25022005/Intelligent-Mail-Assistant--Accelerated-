@@ -1,4 +1,4 @@
-#  Intelligent Mail Assistant
+# Intelligent Mail Assistant
 
 An AI-powered Python script that automatically checks a Gmail inbox, classifies emails using a local LLM, and generates context-aware replies. The script can check for new mail in a continuous loop.
 
@@ -10,7 +10,7 @@ An AI-powered Python script that automatically checks a Gmail inbox, classifies 
 - **Safe Auto-Sending:** Includes a mandatory command-line confirmation step before any AI-generated email is sent.
 - **Continuous Operation:** Can run in a loop to check for new emails every 10 minutes, using Gmail labels to prevent re-processing.
 
-## 🔧 Setup & Installation
+## Setup & Installation
 
 Follow these steps to set up the project on your local machine.
 
