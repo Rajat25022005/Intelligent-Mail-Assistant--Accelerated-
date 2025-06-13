@@ -122,7 +122,7 @@ def main_loop():
             print("Continuing...")
 
         # Wait for 10 minutes before the next check
-        print("\n--- Waiting for 10 minutes (600 seconds) before next check ---")
+        print("\n Waiting for 10 minutes (600 seconds) before next check")
         time.sleep(600)
 
 
